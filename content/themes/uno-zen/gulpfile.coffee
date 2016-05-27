@@ -22,7 +22,7 @@ reload      = browserSync.reload
 
 PORT =
   GHOST: 2387
-  BROWSERSYNC: 3000
+  BROWSERSYNC: 8000
 
 # -- Files ---------------------------------------------------------------------
 
